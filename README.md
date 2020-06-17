@@ -5,9 +5,9 @@ A simple Facebook messenger style chat application using socket.io and React
 To start the app, run:
 
 ```
-npm install
+npm install or yarn install
 
-npm start
+npm start or yarn start
 ```
 
 Once the webpack server has started you can access it in a browser at http://localhost:8000
